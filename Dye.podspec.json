@@ -13,7 +13,7 @@
         "osx": "10.11"
     },
     "source": {
-        "git": "https://github.com/appmiralapp/Dye.git",
+        "git": "https://github.com/DavidDeBels/Dye.git",
         "tag": "2.8.0"
     },
     "requires_arc": true,
